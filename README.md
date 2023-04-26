@@ -108,7 +108,7 @@ In order to clone this project you need:
 
 Clone this repository to your desired folder:
 
-Whit the command "git clone **[https://github.com/SaveryIV/Project-1.git]**)". You can create a copy in your local machine.
+Whit the command "git clone <<https://github.com/SaveryIV/Project-1.git>>)". You can create a copy in your local machine.
 If you want change the directory name destination just need write "git clone https:... <name_new_directory>"
 
 ### Install
