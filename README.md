@@ -27,10 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse! Project</b></h3>
 
 </div>
 
@@ -60,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse!] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello Microverse]** is a short project with the objective of start practicing the professional way to work with Git and GitHub, using the basic commands adding branches, and linters and finally making PR to understand the workflow using GitHub.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,21 +72,8 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://html.spec.whatwg.org/">HTML</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
   </ul>
 </details>
 
@@ -99,19 +83,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- **[Have been installed linters with custom settings for HTML and CSS]**
+- **[Have 3 branches. The main branch, the feature branch, and the LICENSE branch]**
+- **[In this project, we are practicing the pull request action, specifically for code review]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,59 +93,38 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
-In order to run this project you need:
+In order to clone this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+◦ Installation of Git
+◦ Installation of NPM
+◦ A working browser
+◦ Internet connection
+◦ A code editor like Visual Studio Code
+◦ Installation of Live Server plugging in Visual Studio Code
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+Whit the command "git clone https://github.com/SaveryIV/Project-1.git". You can create a copy in your local machine.
+If you want change the directory name destination just need write "git clone https:... <name_new_directory>"
 
 ### Install
 
-Install this project with:
+For setting up the linters you need:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+-Follow the steps mentionated in this article https://github.com/microverseinc/linters-config/tree/master/html-css
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+-Download the extension Live Server for Ritwick Dey.
+-Then close and open again VScode.
+-When you open the folder of the project in your local machine, in the lower left of your screen, you gonna see a item what says "Go Live".
+-Press that button and enjoy the working project!
 
 ### Run tests
 
