@@ -39,7 +39,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -52,22 +51,17 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse!] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Hello Microverse]** is a short project with the objective of start practicing the professional way to work with Git and GitHub, using the basic commands adding branches, and linters and finally making PR to understand the workflow using GitHub.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -80,8 +74,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Have been installed linters with custom settings for HTML and CSS]**
 - **[Have 3 branches. The main branch, the feature branch, and the LICENSE branch]**
@@ -137,20 +129,34 @@ To run the project:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ (QUESTIONS) <a name="faq"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[N/A]**
-
-  - [N/A]
-
-- **[N/A]**
-
-  - [N/A]
+- [ ] **[N/A]**
+- [ ] **[N/A]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+If you like this project share it with others you think can help to learn something new
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+The reviewers who have helped me to make a better project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
